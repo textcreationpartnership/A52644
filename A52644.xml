@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the proceedings at the Sessions, held in justice-hall at the Old-Baly Shewing the several crimes of the mallefactors; viz. treasons, murthers, robberies, burglaries, and fellonies. There were sixteen burned in the hand, three men, and three vvomen condemned, but two of them pleaded ther bellies, and were reprieved by the court, there were four to be transported, and one to stand in the pillory. With allowance; Roger L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52644</idno>
+            <idno type="STC">Wing N210</idno>
+            <idno type="STC">ESTC R223816</idno>
+            <idno type="EEBO-CITATION">99834073</idno>
+            <idno type="PROQUEST">99834073</idno>
+            <idno type="VID">38552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38552)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1837:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the proceedings at the Sessions, held in justice-hall at the Old-Baly Shewing the several crimes of the mallefactors; viz. treasons, murthers, robberies, burglaries, and fellonies. There were sixteen burned in the hand, three men, and three vvomen condemned, but two of them pleaded ther bellies, and were reprieved by the court, there were four to be transported, and one to stand in the pillory. With allowance; Roger L'Estrange.</title>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Millet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 8.</note>
+                  <note>Reproduction of the original in the John Rylands University Library, Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38552:1"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:38552:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>A NARRATIVE <hi>of the</hi> Proceedings at the Seſsions, HELD IN Iuſtice-Hall <hi>AT THE</hi> OLD-BALY.</p>
+            <p>SHEWING The Several Crimes of the Mallefactors; <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>Treaſons,</item>
+               <item>Murthers,</item>
+               <item>Robberies,</item>
+               <item>Burglaries, <hi>and</hi>
+               </item>
+               <item>Fellonies.</item>
+            </list>
+            <p>There were Sixteen burned in the hand, Three Men, and Three VVomen Condemned, but two of them pleaded their Bellies, and were Reprieved by the Court, there were four to be tranſported, and one to ſtand in the Pillory.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance;</p>
+                        <closer>
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Iohn Millet.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38552:2"/>
+            <!-- PDF PAGE 53 -->
+            <pb facs="tcp:38552:2"/>
+            <!-- PDF PAGE 53 -->
+            <head>A Narrative of the Proceedings at the Seſsions, <hi>&amp;c.</hi>
+            </head>
+            <p>EVery Age, nay, every Seſsions brings forth new Crimes, and many times more Prodigi<g ref="char:EOLhyphen"/>ous then the former, of which I ſhall give you a Curſery: the firſt account of ſuch as were try'd this Seſsions in the <hi>Old-Bayly,</hi> was a Mur<g ref="char:EOLhyphen"/>ther committed by a Boy, aged thirteen years and a Month: in Chriſtmas time he unhappily quarrel'd with another Boy, being his Fellow-Apprentice, a<g ref="char:EOLhyphen"/>bout their Aprons: the Priſoner cut the others Apron<g ref="char:EOLhyphen"/>ſtrings, and the other attempting to cut his, the Priſo<g ref="char:EOLhyphen"/>ner took a Three-penny Knife, and ſtab'd him in the Belly: then he run out, and cryed, <hi>Lord Jeſus Receive my Soul,</hi> Daniel <hi>has Kill'd me:</hi> The Young Youth was committed to the <hi>Gate-houſe,</hi> he living neer <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and from thence brought to <hi>Newgate,</hi> and Try'd at the <hi>Old-Bayly:</hi> he had been taught how to ex<g ref="char:EOLhyphen"/>cuſe the Fact, but his Memory was as much Corrupt<g ref="char:EOLhyphen"/>ed as his mind, ſo that he made an imperfect excuſe, pretending that he had the Knife in his hand, and the other came running towards him, and ſtumbled upon the point of his Knife, but it appeared to be other<g ref="char:EOLhyphen"/>wiſe to the Jury, and they brought him in, Guilty of Manſlaughter.</p>
+            <p>The next Fact appeared to be much more Barbarous then the former, a man living in <hi>White-chappel,</hi> was Arreſted by a <hi>Marſhal's-man,</hi> and as ſoon as the Offi<g ref="char:EOLhyphen"/>cer told him of the Arreſt, he with a bloody hand, and
+<pb n="2" facs="tcp:38552:3"/>
+               <!-- PDF PAGE 54 -->barbarous mind, thruſt a very ſtrange Weapon into his Belly, that being done, with as much vigour and as little ſence and grace, he thruſt at another, but his nimble body eſcaped his malicious purpoſe, and an unexpected Multitude ſurprized him, and took him Priſoner: when the danger of his further miſchief was over, they begun to parley with him, and asked why he would do ſo Barbarous an act? he replyed, <hi>That if he had not Killed the Bayliff, he ſhould have gone to the</hi> Marſhalſey <hi>on foot, but now he was to go to</hi> New<g ref="char:EOLhyphen"/>gate <hi>in a Coach:</hi> but though he ſeemed to be of a reſolute mind, and of an undaunted courage, yet by a ſerious conſideration, he pleaded eagerly to excuſe the Fact. but all in vain, for he was found, Guilty of Murther.</p>
+            <p>After theſe, another was brought to the Bar for Murther, it appeared that he was making a joynt-ſtool in <hi>Clarendin</hi>-houſe, and one that ſeem'd to have ſome intereſt there, told him that he ſhould not do it there, the other replyed, he would: then the other ſtruck him, and his ſtroaks were anſwered with a blow with a Miller, upon his arm: the other that was Killed challenged him to fight, which he refuſed to do, then he went to lock him in, but the other fruſtrated his de<g ref="char:EOLhyphen"/>figns: the ſlain ſtruck at him three or four times, and he then ſmote him on the head with his Saw, and his Hat being off, he pierc'd his Scull, and the wound reached very neer his Brains, upon which, within leſs then two days he Dyed, the Provocations being conſidered by the Jury, he was onely found, Guilty of Manſlaughter.</p>
+            <p>
+               <pb n="3" facs="tcp:38552:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->
+Then ſucceeded the Tryal of a very Young Youth, who was Indicted for Stealing one quarter of a Yard of Silk-Luteſtring, and a quarter of a yard of Maſ<g ref="char:EOLhyphen"/>carade from a Taylor, to whom he was a Probationa<g ref="char:EOLhyphen"/>ry Apprentice: upon his Indictment he Childiſhly and Innocently pleaded Guilty to the Fellony: but the Court, by reaſon of his Youth, ordered him to be brought back to the Barr to plead to his Bill, and he pleaded not Guilty, and was quitted.</p>
+            <p>There was like-wiſe an Iriſh-man Try'd, for Steal<g ref="char:EOLhyphen"/>ing two hundred pounds from his Maſter, but though ſeveral Circumſtances ſeemed to ſtick as cloſe to him as the Chain to his Leg; yet nothing could be fully proved againſt him, and therefore he was acquitted.</p>
+            <p>There was another arraigned for Fellony and Bur<g ref="char:EOLhyphen"/>glary, but would not Plead till his Wife, who was accuſed with him might be releaſed; The Court urg'd him in vain, and told him the Preſs was ready: he con<g ref="char:EOLhyphen"/>fidently replyed, that he was as ready for the Preſs: but the Court having enough to do that day, did l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him alone till another, and ere that time was expired, poſsibly he would alter his Reſolution.</p>
+            <p>A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter this a Youth was tryed for a burglary commit<g ref="char:EOLhyphen"/>ted in a houſe at <hi>Finchley:</hi> the man ſaid, his houſe was broke open, a Napkin, a Neats, and ſome ſilver ſpoons were taken away, but he knew not by whom; then a<g ref="char:EOLhyphen"/>nother Witneſs was called, and he ſaid that he was in the Robbery with the Priſoner, the other denyed it; then the Evidence ſaid that he was in that, and in at leaſt twenty other Robberies with him, and if that would not do his buſineſs, the reſt ſhould; be pleaſed
+<pb n="2" facs="tcp:38552:4"/>
+               <!-- PDF PAGE 55 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:38552:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 55 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:38552:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->to know that this his accuſer was a very great Crimi<g ref="char:EOLhyphen"/>nal, and ſaid with others, to the end they ſhould make a Candid Diſcovery: but the Iury acquitted the young man, being ſatisfied that ſuch fellows often prove lame in their proſecution, for a reward it is ſup<g ref="char:EOLhyphen"/>poſed they ſpare ſome that are Guilty, and often lay the burthen upon thoſe that leaſt deſerve it.</p>
+            <p>There was likewiſe one in the Habit of a Gentle<g ref="char:EOLhyphen"/>woman, that took a Tryal for ſtealing a Silver Tank<g ref="char:EOLhyphen"/>ard, and a conſiderable parcel of Money from a Ci<g ref="char:EOLhyphen"/>tizen; the manner was thus; ſhe pretendly went to provide a Lodging for a perſon of Honour; <hi>Stew<g ref="char:EOLhyphen"/>art</hi> and another Iriſh Gentleman; and when ſhe had accompliſhed her Deſigns, the Gentlemen came, and were wellcomly entertained; and it being Chriſtmas time, at night they went to Cards with the Landlord, the Landlady being gone a viſiting; in a little time they wanted ſome Double beer, and there was none to fetch it but the Maſter of the houſe; he therefore went to the next door and ordered the Maid to bring them in a quart or two; afterwards they wanted ſome Wine, he went the ſame way to work to ſupply their wants, but not long after they deſired him to fetch them ſome double bear himſelf; he readily obeyed the commands of his noble, and as he thought pro<g ref="char:EOLhyphen"/>fitable gueſts, and was no ſooner gone, but they marched up ſtairs to ſeek out his treaſures, &amp; breaking open a cloſet they found a ſilver Tankard, &amp; a conſide<g ref="char:EOLhyphen"/>rable parcel of mony, which they took, and left him to pay for the double ale, and not long after they met with this woman, and brought her to a Tryal, who
+<pb n="5" facs="tcp:38552:5"/>
+               <!-- PDF PAGE 56 -->ſaid that one of the Gentlemen was her Husband, and produc'd a Certifficate to affirm it, but the Jury then brought her in guilty of the fact.</p>
+            <p>There was another woman tryed for high treaſon; the cauſe was this. She came to a ſhop at <hi>Ludgate-hill,</hi> and deſired them to change her a ſhilling, they percei<g ref="char:EOLhyphen"/>ving it clipt told her that ſhe deſerved to be queſtioned how ſhe came by it, ſhe thereupon run away, but they being too nimble overtook her, and ſuſpecting her guilt, carryed her before a Magiſtrate, who committed her to priſon, her lodging was ſearched, and Pots, ſhears, and clippings found in it, but the Iury preſum'd to think it was her Husbands handy-work rather than hers, therefore acquitted her.</p>
+            <p>There were two men drinking, and there aroſe a diſ<g ref="char:EOLhyphen"/>pute between them concerning a <hi>Spaniſh</hi> word, one affirmed that it was not properly expreſt, the other gave him provoking language for ſaying ſo, he reply'd, Sir I know not how to bear that affront; then ſaid the other if you like it not follow me out; then he ſeemed willing, but was prevented by the reſt of the company, who laboured afterwards to compoſe their differences, and they ſeeming well reconcil'd; the company left them, about an hour after they fell to quarrelling again, and being out of doors he that gave the unſeemly lan<g ref="char:EOLhyphen"/>guage bid the other draw or elſe he would run him through; he thereupon unſheath'd his Rapier, and in the quarrel run the challenger into the arm, the neigh<g ref="char:EOLhyphen"/>bours ſoon put a period to their fighting, and parted them. But the wound proved mortal, and the other was therefore accuſed for the murther, but the Iury
+<pb n="8" facs="tcp:38552:6"/>
+               <!-- PDF PAGE 57 -->perceiving by the evidence that he was compelled to draw to ſecure his life, brought in their verdict, <hi>Se De<g ref="char:EOLhyphen"/>fendendo.</hi>
+            </p>
+            <p>There was a man and a Woman try'd for a Burgla<g ref="char:EOLhyphen"/>ry, but the houſe being broken open in the day time, it was eſteem'd a fellony, the man was found guilty, the other acquitted being his wife.</p>
+            <p>There was one try'd for breaking open a houſe at High-gate, taking away a braſs clock, and a <hi>Virginy</hi>-Nightingale, but though he was ſeen that day with the clock, yet the evidence could not ſwear thoſe things were theirs therefore he was acquitted.</p>
+            <p>There was one inuicted for cutting a Gentlewomans pocket, and taking from her a box and five ſhilings, and three groats, ſhe being apprehended upon ſuſpition, and ſearch being made they found a box like hers, and the ſame ſumm was in it, but ſhe would not ſwear that was her box, nor that her money, every like not being the ſame, therefore ſhe was in like manner acquitted.</p>
+            <p>There was a man that came to a Watch-maker, ac<g ref="char:EOLhyphen"/>companied with a foot-man, who deſired to ſee ſome Watches for his Maſter; after he had ſeen many, he made choice of two of the beſt, one gold, the other fil<g ref="char:EOLhyphen"/>ver, and the Apprentice was ſent with him to bring the Watch or money for them, but when he got into the Temple, he pretended to go up ſtairs to his maſter, and ſo gave the young man the ſlip, for which he was ordered to ſtand in the pillory.</p>
+            <p>There were 16 burned in the hand, 3 men and 3 wo<g ref="char:EOLhyphen"/>men condemn'd; 2 of the women pleaded they were with Child, and therefore reprieved for a time by the Court; 4 ordered to be tranſported, &amp; 1 to the Pillory.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38552:6"/>
+            <!-- PDF PAGE 57 -->
+         </div>
+      </body>
+   </text>
+</TEI>
